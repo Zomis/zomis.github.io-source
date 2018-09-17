@@ -1,21 +1,24 @@
-# zomis.github.io
+# [zomis.github.io](https://zomis.github.io)
 
-## Project setup
-```
-yarn install
-```
+Presentation and links of Simon Forsberg
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+### Content
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+- Github repositories
+- Creator of an online Minesweeper Flags game
+- Flairs
+- Factorio Mods
 
-### Lints and fixes files
-```
-yarn run lint
-```
+### TODO
+
+- Apps on Google Play
+- Master of a bot named Duga
+- Creator of Zomis' Games
+- Lead Developer of Cardshifter
+- Code Review meta activity
+- Code Review moderator
+- Code Review
+- Twitter
+- LinkedIn
+- Duga
+- BF / Advent of Code ?

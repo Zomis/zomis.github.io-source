@@ -8,15 +8,6 @@
     </p>
 
     <div class="stackexchange-flair">
-      <a href="https://stackoverflow.com/users/1310566/simon-forsberg">
-<img src="https://stackoverflow.com/users/flair/1310566.png" width="208" height="58" alt="profile for Simon Forsberg at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Simon Forsberg at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-      <a href="https://codereview.stackexchange.com/users/31562/simon-forsberg">
-<img src="https://codereview.stackexchange.com/users/flair/31562.png" width="208" height="58" alt="profile for Simon Forsberg at Code Review Stack Exchange, Q&amp;A for peer programmer code reviews" title="profile for Simon Forsberg at Code Review Stack Exchange, Q&amp;A for peer programmer code reviews">
-</a>
-      <a href="https://stackexchange.com/users/1376679">
-<img src="https://stackexchange.com/users/flair/1376679.png" width="208" height="58" alt="profile for Simon Forsberg on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Simon Forsberg on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-</a>
     </div>
 
     <h3>Installed CLI Plugins</h3>
