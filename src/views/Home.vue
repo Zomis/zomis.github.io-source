@@ -2,7 +2,7 @@
   <v-container fluid>
     <v-slide-y-transition mode="out-in">
       <v-layout column align-center>
-        <img src="@/assets/logo.png" alt="Vuetify.js" class="mb-5">
+        <img src="@/assets/simon.jpg" alt="Picture of Simon Forsberg" class="simon">
 <!--
         <blockquote>
           &#8220;Something&#8221;
@@ -69,6 +69,10 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.simon {
+  height: 300px;
+}
+
 h1,
 h2 {
   font-weight: normal;
