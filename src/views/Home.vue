@@ -73,11 +73,10 @@
           </v-card-actions>
         </v-card>
         <v-card>
-          <v-img src="https://cdn.vuetifyjs.com/images/cards/desert.jpg" aspect-ratio="2.75"></v-img>
           <v-card-title primary-title>
             <div>
               <h3 class="headline mb-0">Zomis on GitHub</h3>
-              <div>More than 40 repositories of fun stuff!</div>
+              <div>More than 50 repositories of fun stuff!</div>
             </div>
           </v-card-title>
           <v-card-actions>
