@@ -84,7 +84,17 @@
           </v-card-actions>
         </v-card>
         <v-card>
-          <v-img src="https://cdn.vuetifyjs.com/images/cards/desert.jpg" aspect-ratio="2.75"></v-img>
+          <v-card-title primary-title>
+            <div>
+              <h3 class="headline mb-0">A bot named Duga</h3>
+              <div>Webhook for Stack Exchange chat rooms and watches for comments.</div>
+            </div>
+          </v-card-title>
+          <v-card-actions>
+            <v-btn href="https://codereview.stackexchange.com/users/51786/duga?tab=profile" flat color="orange">Discover</v-btn>
+          </v-card-actions>
+        </v-card>
+        <v-card>
           <v-card-title primary-title>
             <div>
               <h3 class="headline mb-0">Factorio Mods</h3>
