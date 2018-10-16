@@ -97,6 +97,16 @@
         <v-card>
           <v-card-title primary-title>
             <div>
+              <h3 class="headline mb-0">Zomis' Games</h3>
+              <div>A flexible server and client supporting several games. Using Kotlin and Vue.</div>
+            </div>
+          </v-card-title>
+          <v-card-actions>
+            <v-btn href="https://games.zomis.net/" flat color="orange">Play</v-btn>
+            <v-btn href="https://github.com/Zomis/Server2" flat color="orange">More info</v-btn>
+          </v-card-actions>
+        </v-card>
+        <v-card>
               <h3 class="headline mb-0">Factorio Mods</h3>
               <div>Mods for the great automation game Factorio made by Simon.</div>
             </div>
