@@ -107,6 +107,20 @@
           </v-card-actions>
         </v-card>
         <v-card>
+          <v-card-title primary-title>
+            <div>
+              <h3 class="headline mb-0">Cardshifter</h3>
+              <div>A collaboration project where Simon is/was the lead developer. Using Java, Groovy and Vue - previously used AngularJS.</div>
+            </div>
+          </v-card-title>
+          <v-card-actions>
+            <v-btn href="https://cardshifter.zomis.net/" flat color="orange">Play</v-btn>
+            <v-btn href="https://github.com/Cardshifter/Cardshifter" flat color="orange">More info</v-btn>
+          </v-card-actions>
+        </v-card>
+        <v-card>
+          <v-card-title primary-title>
+            <div>
               <h3 class="headline mb-0">Factorio Mods</h3>
               <div>Mods for the great automation game Factorio made by Simon.</div>
             </div>
