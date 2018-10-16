@@ -62,15 +62,14 @@
 
 
         <v-card>
-          <v-img src="https://cdn.vuetifyjs.com/images/cards/desert.jpg" aspect-ratio="2.75"></v-img>
           <v-card-title primary-title>
             <div>
               <h3 class="headline mb-0">Minesweeper Flags Extreme</h3>
-              <div>Online multiplayer game since 2008.</div>
+              <div>Online multiplayer game since 2008. During its peak popularity, an average of one game was played per minute. Originally made in Flash and PHP, now using Java and LibGDX</div>
             </div>
           </v-card-title>
           <v-card-actions>
-            <v-btn href="http://www.minesweeperflags.net" flat color="orange">More info</v-btn>
+            <v-btn href="http://www.minesweeperflags.net" flat color="orange">Play</v-btn>
           </v-card-actions>
         </v-card>
         <v-card>
