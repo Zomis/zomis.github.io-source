@@ -70,7 +70,7 @@
             </div>
           </v-card-title>
           <v-card-actions>
-            <v-btn href="http://www.minesweeperflags.net" flat color="orange">Play</v-btn>
+            <v-btn href="https://www.minesweeperflags.net" flat color="orange">Play</v-btn>
           </v-card-actions>
         </v-card>
         <v-card>
@@ -81,7 +81,7 @@
             </div>
           </v-card-title>
           <v-card-actions>
-            <v-btn href="http://www.github.com/Zomis" flat color="orange">Explore</v-btn>
+            <v-btn href="https://www.github.com/Zomis" flat color="orange">Explore</v-btn>
           </v-card-actions>
         </v-card>
         <v-card>
