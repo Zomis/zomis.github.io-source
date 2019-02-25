@@ -26,6 +26,7 @@
           </v-card-text>
           <v-card-actions>
             <v-btn href="https://www.linkedin.com/in/simonforsberg/" flat color="blue">Connect</v-btn>
+            <v-btn href="mailto:simon.forsberg@sigma.se" flat color="blue">Send e-mail</v-btn>
           </v-card-actions>
         </v-card>
 
