@@ -4,7 +4,7 @@
       <router-view />
     </v-content>
     <v-footer :fixed="fixed" app>
-      <span>&copy; 2018</span>
+      <span>&nbsp;&copy; 2018-2020</span>
     </v-footer>
   </v-app>
 </template>
